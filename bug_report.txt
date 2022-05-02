@@ -1,0 +1,14 @@
+1. title Of The Bug Report - Registration form don’t send
+2. short Description of the error - Registration form don’t send
+3. Project - www.planka.club
+4. application Component - Registration form
+5. version Number - 66.66.77
+6. bug Severity - S4
+7. bug Status - Opened
+8. author - Solovyeva Ksenia
+9. assigned To - Smirnov Oleg
+10. environment - macOS Monterey 12.1, Chrome 100.0.4896.127
+11. playback steps - open registration form
+12. completed All Fields - name, age, the address, clicked send  13. actual Result - 404 error
+14. Expected Result - Successful registration
+15. additions - 
