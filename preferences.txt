@@ -1,5 +1,5 @@
-1. FavoriteMovie Eat Pray Love
-2. favoriteSeries The Big Bang Theory
-3. avoriteDish sandwich
-4. favotiteSeason autumn
-5. countryOfTheDream Portugal
+1. Favorite Movie - Eat Pray Love
+2. favorite Series - The Big Bang Theory
+3. avorite Dish - sandwich
+4. favotite Season - autumn
+5. country Of The Dream - Portugal
