@@ -1,0 +1,4 @@
+    1) name Solovyeva Ksenia Petrovna
+    2) age 38
+    3) pets 1
+    4) exspectedSalary 70000
