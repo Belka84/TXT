@@ -1,4 +1,4 @@
-Skill_1 structure
-Skill_2 array
-Skill_3 functions
-Skill_4 syntax
+Skill_1 - structure
+Skill_2 - array
+Skill_3 - functions
+Skill_4 - syntax
